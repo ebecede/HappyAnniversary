@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.navbar{
+    border-bottom: 1px solid #D0A2F7;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover {
+    color:#D0A2F7;  
+}
+
+.btn-light{
+    width: 155px;
+    height: 40px;
+    border: 2px solid #D0A2F7;
+    outline: none;
+    border-radius: 20px;
+    background-color: transparent;
+    color: #D0A2F7;
+}
+
+.btn-light:hover{
+    background-color: #D0A2F7;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+footer{
+    color: #D0A2F7;
+}
